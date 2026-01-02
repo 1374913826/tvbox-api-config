@@ -1,0 +1,548 @@
+{
+  "sites": [
+    {
+      "key": "1080zyku",
+      "name": "1080影视库",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360zy",
+      "name": "360资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ckzy",
+      "name": "诚空资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ukuapi",
+      "name": "优酷API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ukuapi88",
+      "name": "优酷API88",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ikunzy",
+      "name": "爱酷资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujinapi_cc",
+      "name": "无尽API-CC",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yayazy",
+      "name": "亚亚资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsuapi",
+      "name": "广速API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wolongzyw",
+      "name": "卧龙资源-W",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wolongzy_cc",
+      "name": "卧龙资源-CC",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wolongzyw_com",
+      "name": "卧龙资源-COM",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tyyszy",
+      "name": "天荷资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "rycjapi",
+      "name": "荣昌影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiaomaomi",
+      "name": "小猫咪资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xinlangapi",
+      "name": "新浪API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujinapi_com",
+      "name": "无尽API-COM",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujinapi_me",
+      "name": "无尽API-ME",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujinapi_net",
+      "name": "无尽API-NET",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wwzy",
+      "name": "万物资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wwzy_api",
+      "name": "万物资源API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bfzyapi",
+      "name": "白菲资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuidazy",
+      "name": "最大资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuidapi",
+      "name": "最大API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apiyhzy",
+      "name": "一号资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yparse",
+      "name": "易解析",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "niuniuzy",
+      "name": "牛牛资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dyttzyapi",
+      "name": "独一电影",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apibdzy",
+      "name": "百度资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "1080zyku_json",
+      "name": "1080库JSON",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoniapi",
+      "name": "索尼资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongniuzy2",
+      "name": "红牛资源2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "maotaizy",
+      "name": "茅台资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huyaapi",
+      "name": "虎牙API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dbzy_caiji",
+      "name": "豆豆采集",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dbzy",
+      "name": "豆豆资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hhzyapi",
+      "name": "呵呵资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "subocaiji",
+      "name": "速播采集",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lziapi",
+      "name": "联众资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jinyingzy",
+      "name": "锦映资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jyzyapi",
+      "name": "锦映API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sdzyapi",
+      "name": "闪电资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzyapi",
+      "name": "非凡资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "p2100",
+      "name": "P2100资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mozhuazy",
+      "name": "墨庄资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "moduapi",
+      "name": "魔都API",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mdzyapi",
+      "name": "美独资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heimuer",
+      "name": "黑幕资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heimuer02",
+      "name": "黑幕资源02",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzynew",
+      "name": "非凡资源NEW",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszyapi",
+      "name": "金色资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gayapi",
+      "name": "盖娅资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aiduanju",
+      "name": "爱段剧",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huawei8",
+      "name": "华为资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "taopianapi",
+      "name": "淘片资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongniuzy3",
+      "name": "红牛资源3",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xsd_sdzyapi",
+      "name": "闪电资源XSD",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jyzyapi_provide",
+      "name": "锦映供应",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fczy888",
+      "name": "飞车资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jmzy",
+      "name": "极美资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dadiapi",
+      "name": "大地资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiaojizy",
+      "name": "小极资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kuaichezy",
+      "name": "快车资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xinlangapi_provide",
+      "name": "新浪供应",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apilj_provide",
+      "name": "龙剧供应",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yzzy_api",
+      "name": "央视资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "iqiyizyapi",
+      "name": "爱奇艺资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qiqidys",
+      "name": "奇奇资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
