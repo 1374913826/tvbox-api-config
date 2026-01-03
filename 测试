@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "test",
+      "name": "测试资源",
+      "type": 3,
+      "api": "https://example.com/api",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
