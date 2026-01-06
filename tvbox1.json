@@ -1,0 +1,179 @@
+{
+    "cache_time": 7200,
+    "sites": [
+        {
+            "key": "1080zyku",
+            "name": "TV-1080资源",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/api_mac10.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://api.1080zyku.com"
+        },
+        {
+            "key": "360zy",
+            "name": "TV-360资源",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://360zy.com"
+        },
+        {
+            "key": "ckzy",
+            "name": "TV-CK资源",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://ckzy.me"
+        },
+        {
+            "key": "ukuapi",
+            "name": "TV-U酷资源",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://api.ukuapi.com"
+        },
+        {
+            "key": "wolongzyw",
+            "name": "TV-卧龙点播",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://collect.wolongzyw.com"
+        },
+        {
+            "key": "tyyszy",
+            "name": "TV-天涯资源",
+            "type": 1,
+            "api": "https://tyyszy.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://tyyszy.com"
+        },
+        {
+            "key": "xinlangapi",
+            "name": "TV-新浪点播",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://api.xinlangapi.com"
+        },
+        {
+            "key": "wwzy",
+            "name": "TV-旺旺短剧",
+            "type": 1,
+            "api": "https://wwzy.tv/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://wwzy.tv"
+        },
+        {
+            "key": "zuidapi",
+            "name": "TV-最大资源",
+            "type": 1,
+            "api": "https://api.zuidapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://api.zuidapi.com"
+        },
+        {
+            "key": "apibdzy",
+            "name": "TV-百度云资源",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+            },
+            "ext": "https://api.apibdzy.com"
+        }
+    ],
+    "parses": [
+        {
+            "name": "极速解析",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": ["all"]
+            }
+        },
+        {
+            "name": "云播解析",
+            "type": 0,
+            "url": "https://www.yunbo.tv/jx/?url=",
+            "ext": {
+                "flag": ["all"]
+            }
+        },
+        {
+            "name": "VIP解析",
+            "type": 0,
+            "url": "https://jiexi.071811.cc/jx.php?url=",
+            "ext": {
+                "flag": ["all"]
+            }
+        },
+        {
+            "name": "并发解析",
+            "type": 2,
+            "url": "Parallel"
+        }
+    ],
+    "flags": ["youku", "qq", "iqiyi", "letv", "mgtv"],
+    "lives": [],
+    "wallpaper": ""
+}
