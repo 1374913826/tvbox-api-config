@@ -1,0 +1,8 @@
+tvbox-api-config.zip
+│
+├─ tvbox-local.json          ← 终极自用无弹窗 JSON（保留全部站点）
+├─ tvbox-tv.json             ← TV 专用版（可选）
+├─ tvbox-drama.json          ← 短剧/剧集专用版（可选）
+├─ tvbox-spider/
+│    └─ XC.jar               ← Spider 文件（ghproxy 加速）
+└─ README.md                 ← 使用说明 + ghproxy 教程
